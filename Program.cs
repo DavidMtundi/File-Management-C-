@@ -1,11 +1,10 @@
-using AdvancedProject.Forms;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AdvancedProject
+namespace Client
 {
     static class Program
     {
@@ -18,7 +17,7 @@ namespace AdvancedProject
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AllPartitions());
+            Application.Run(new Form1());
         }
     }
 }
