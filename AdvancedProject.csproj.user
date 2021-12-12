@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllDocsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllDuplicatesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllExecutablesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllPartitions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllFoldersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllVideosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AllZippedForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AudioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OpenApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SecondForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SmallDialogue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SocketProgramming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TaskManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\DiskUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\HomeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
